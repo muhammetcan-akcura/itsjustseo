@@ -4,8 +4,8 @@ import Footer from './components/Footer/Footer';
 
 
 export const metadata = {
-  title: 'justanothermarketing',
-  description: 'justanothermarketing',
+  title: 'itsjustseo',
+  description: 'itsjustseo',
 }
 
 export default function RootLayout({
